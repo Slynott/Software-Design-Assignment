@@ -1,0 +1,3 @@
+<reading><time>10:00</time><Light>0</time></reading>
+<reading><time>10:30</time><Light>1</time></reading>
+
